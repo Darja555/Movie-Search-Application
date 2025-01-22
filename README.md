@@ -4,3 +4,4 @@ Project Goal-Develop an interactive console application that allows users to sea
 - All entered search queries are stored in a separate table in a separate database.
 - The project application allows to display the most popular queries at the user command.
 Implemented the ability to use main.py to run a console application, while MovieSearch.py will be used to run a web application using Streamlit.
+![Movie Search](https://github.com/Darja555/Movie-Search-Application/blob/main/Movie_Search_application.PNG)
